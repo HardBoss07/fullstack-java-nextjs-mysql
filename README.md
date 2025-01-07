@@ -1,4 +1,4 @@
-# fullstack-java-nextjs-mysql
+# Fullstack Application Template
 
 This is a Template Repository for a fullstack application.
 Technologies used:
